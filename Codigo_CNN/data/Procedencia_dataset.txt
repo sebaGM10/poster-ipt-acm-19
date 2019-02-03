@@ -1,0 +1,4 @@
+El dataset que hemos usado es el de puigalex: 
+https://github.com/puigalex/AMP-Tech/tree/master/CNN%20desde%20cero/
+
+
